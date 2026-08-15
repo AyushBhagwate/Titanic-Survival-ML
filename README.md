@@ -1,3 +1,5 @@
+![Image_Alt](https://github.com/AyushBhagwate/Titanic-Survival-ML/blob/415d69e16991af69a1542ddf87874d48aaa8be20/Titanic-Survival-ML_Banner.png)
+
 # 🚢 Titanic Survival Prediction (Logistic Regression)
 
 ## 📌 Project Overview
